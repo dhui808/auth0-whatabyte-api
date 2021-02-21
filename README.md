@@ -12,7 +12,7 @@ git push origin main
 ```
 
 ## Tutorial
-[Spring Boot + Auth0 Tutorial](https://auth0.com/blog/spring-boot-java-authorization-tutorial-secure-an-api/).
+[Spring Boot + Auth0 Tutorial](https://auth0.com/blog/spring-boot-authorization-tutorial-secure-an-api-java/).
 
 
 ## Test the API with the WHATABYTE Client
